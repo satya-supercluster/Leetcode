@@ -31,12 +31,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/satya-supercluster/Leetcode/tree/master/0027-remove-element) |
+| [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0733-flood-fill](https://github.com/satya-supercluster/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/satya-supercluster/Leetcode/tree/master/1036-rotting-oranges) |
 # Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0733-flood-fill](https://github.com/satya-supercluster/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/satya-supercluster/Leetcode/tree/master/1036-rotting-oranges) |
 # Hash Table
@@ -52,3 +54,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/satya-supercluster/Leetcode/tree/master/0207-course-schedule) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
