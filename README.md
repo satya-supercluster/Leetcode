@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0733-flood-fill](https://github.com/satya-supercluster/Leetcode/tree/master/0733-flood-fill) |
 | [0967-minimum-falling-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0967-minimum-falling-path-sum) |
 | [1036-rotting-oranges](https://github.com/satya-supercluster/Leetcode/tree/master/1036-rotting-oranges) |
@@ -62,4 +63,9 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0967-minimum-falling-path-sum) |
+# Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
