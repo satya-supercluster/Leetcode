@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satya-supercluster/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/satya-supercluster/Leetcode/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 # Topological Sort
@@ -61,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/satya-supercluster/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0064-minimum-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
@@ -69,3 +71,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
+# String
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/satya-supercluster/Leetcode/tree/master/0005-longest-palindromic-substring) |
