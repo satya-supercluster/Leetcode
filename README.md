@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/satya-supercluster/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/satya-supercluster/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/satya-supercluster/Leetcode/tree/master/0733-flood-fill) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/satya-supercluster/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/satya-supercluster/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Breadth-First Search
 |  |
@@ -18,11 +19,13 @@ Collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/satya-supercluster/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/satya-supercluster/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/satya-supercluster/Leetcode/tree/master/1036-rotting-oranges) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/satya-supercluster/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/satya-supercluster/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Union Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/satya-supercluster/Leetcode/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/satya-supercluster/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/satya-supercluster/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Graph
 |  |
@@ -30,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0133-clone-graph](https://github.com/satya-supercluster/Leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/satya-supercluster/Leetcode/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/satya-supercluster/Leetcode/tree/master/0547-number-of-provinces) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/satya-supercluster/Leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/satya-supercluster/Leetcode/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 # Array
 |  |
