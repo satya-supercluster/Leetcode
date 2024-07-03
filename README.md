@@ -104,4 +104,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+## String
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 <!---LeetCode Topics End-->
