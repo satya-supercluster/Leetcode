@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
+| [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
@@ -118,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
