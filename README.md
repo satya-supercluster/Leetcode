@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 ## Topological Sort
 |  |
 | ------- |
@@ -129,4 +130,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
