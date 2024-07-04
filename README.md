@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
+| [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 ## Topological Sort
 |  |
 | ------- |
@@ -124,4 +125,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+## Array
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
