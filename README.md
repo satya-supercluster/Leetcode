@@ -111,12 +111,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -128,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 ## Array
 |  |
@@ -142,4 +145,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/0014-longest-common-prefix) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
