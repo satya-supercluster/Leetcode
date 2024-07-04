@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Topological Sort
 |  |
@@ -138,6 +139,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 ## Binary Search
 |  |
 | ------- |
