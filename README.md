@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [3460-count-the-number-of-inversions](https://github.com/satya-supercluster/Leetcode/tree/master/3460-count-the-number-of-inversions) |
@@ -226,4 +227,9 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+## Simulation
+|  |
+| ------- |
+| [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 <!---LeetCode Topics End-->
