@@ -2,6 +2,7 @@ class Solution {
 public:
     int numberOfSubarrays(vector<int>& nums, int k) {
         unordered_map<int,int> mp;
+        mp[0]=1;
         int ans{};
         vector<int>pre(nums.size(),0);
         pre[0]=nums[0]%2;
@@ -14,7 +15,7 @@ public:
         // }
         for(int i{};i<nums.size();i++){
             if(pre[i]>=k){
-                ans+=mp[pre[i]-k]+(pre[i]==k);
+                ans+=mp[pre[i]-k];
                 // cout<<mp[pre[i]-k]<<endl;
             }
             mp[pre[i]]++;
