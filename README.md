@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 ## Dynamic Programming
 |  |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Array
 |  |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
