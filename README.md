@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
+| [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 ## Math
 |  |
@@ -249,4 +252,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 <!---LeetCode Topics End-->
