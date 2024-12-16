@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Array
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
