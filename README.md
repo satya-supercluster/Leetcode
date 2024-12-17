@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3460-count-the-number-of-inversions](https://github.com/satya-supercluster/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Trie
 |  |
 | ------- |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Prefix Sum
 |  |
@@ -295,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 ## Counting Sort
 |  |
 | ------- |
