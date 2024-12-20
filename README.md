@@ -96,12 +96,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1229-shortest-path-with-alternating-colors](https://github.com/satya-supercluster/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
@@ -308,10 +310,12 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Sorting
 |  |
 | ------- |
