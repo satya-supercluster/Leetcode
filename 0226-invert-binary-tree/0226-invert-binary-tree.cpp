@@ -13,8 +13,8 @@ class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) {
         if(root==nullptr) return root;
-        if(root->left!=nullptr) root->left=invertTree(root->left);
-        if(root->right!=nullptr) root->right=invertTree(root->right);
+        root->left=invertTree(root->left);
+        root->right=invertTree(root->right);
         swap(root->left,root->right);
         return root;
     }
