@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/satya-supercluster/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/satya-supercluster/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 ## Greedy
 |  |
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satya-supercluster/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -238,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
+| [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 ## Stack
 |  |
 | ------- |
