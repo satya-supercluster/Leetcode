@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/satya-supercluster/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3460-count-the-number-of-inversions](https://github.com/satya-supercluster/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 ## Topological Sort
@@ -351,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/satya-supercluster/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/satya-supercluster/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
