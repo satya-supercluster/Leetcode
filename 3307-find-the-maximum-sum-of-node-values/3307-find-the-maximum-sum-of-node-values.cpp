@@ -1,21 +1,20 @@
 class Solution {
-private:
-    long long dp[20002][2];
 public:
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
         int n = nums.size();
-        memset(dp,0,sizeof(dp));
+        vector<long long> curr(2,0),next(2,0);
         // base cases
-        dp[n][0] = -1e9;
-        dp[n][1] = 0;
+        next[0] = -1e9;
+        next[1] = 0;
         for(int idx=n-1;idx>=0;--idx) {
             for(int even=0;even<2;++even) {
-                long long take = (nums[idx]^k) + dp[idx+1][even^1]; 
-                long long notTake = nums[idx] + dp[idx+1][even];
+                long long take = (nums[idx]^k) + next[even^1]; 
+                long long notTake = nums[idx] + next[even];
 
-                dp[idx][even] = max(take,notTake);
+                curr[even] = max(take,notTake);
             }
+            next = curr;
         }
-        return dp[0][1];        
+        return curr[1];        
     }
 };
