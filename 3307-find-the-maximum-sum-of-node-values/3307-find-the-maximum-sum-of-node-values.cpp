@@ -1,19 +1,21 @@
 class Solution {
 private:
-    long long dp[20001][2];
-    long long f(int idx,int even,vector<int> &nums,int k) {
-        // base cases
-        if(idx >= nums.size()) return even? 0 : -1e9;
-        if(dp[idx][even] != -1) return dp[idx][even];
-
-        long long take = (nums[idx]^k) + f(idx+1,even^1,nums,k); 
-        long long notTake = nums[idx] + f(idx+1,even,nums,k);
-
-        return dp[idx][even] = max(take,notTake);
-    }
+    long long dp[20002][2];
 public:
     long long maximumValueSum(vector<int>& nums, int k, vector<vector<int>>& edges) {
-        memset(dp,-1,sizeof(dp));
-        return f(0,1,nums,k);
+        int n = nums.size();
+        memset(dp,0,sizeof(dp));
+        // base cases
+        dp[n][0] = -1e9;
+        dp[n][1] = 0;
+        for(int idx=n-1;idx>=0;--idx) {
+            for(int even=0;even<2;++even) {
+                long long take = (nums[idx]^k) + dp[idx+1][even^1]; 
+                long long notTake = nums[idx] + dp[idx+1][even];
+
+                dp[idx][even] = max(take,notTake);
+            }
+        }
+        return dp[0][1];        
     }
 };
