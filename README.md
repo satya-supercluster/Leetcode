@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/satya-supercluster/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/satya-supercluster/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -389,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/satya-supercluster/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 ## Sorting
