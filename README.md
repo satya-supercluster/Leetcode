@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/satya-supercluster/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/satya-supercluster/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
