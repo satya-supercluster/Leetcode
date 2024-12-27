@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
+| [1063-best-sightseeing-pair](https://github.com/satya-supercluster/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
@@ -219,6 +220,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satya-supercluster/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1063-best-sightseeing-pair](https://github.com/satya-supercluster/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1138-grumpy-bookstore-owner](https://github.com/satya-supercluster/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
