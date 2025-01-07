@@ -2,16 +2,16 @@ class Solution {
 public:
     vector<string> stringMatching(vector<string>& words) {
         vector<string> ans;
-        map<string,int> s;
-        for(auto&word:words){
-            for(int i{};i<word.length();i++){
-                for(int j{i};j<word.length();j++){
-                    s[word.substr(i,j-i+1)]++;
+        for(int i{};i<words.size();i++){
+            for(int j{};j<words.size();j++){
+                if (i != j) {
+                    auto found = words[j].find(words[i]);
+                    if (found != string::npos) {
+                        ans.push_back(words[i]);
+                        break;
+                    }
                 }
             }
-        }
-        for(auto&word:words){ 
-            if(s[word]>1) ans.push_back(word);
         }
         return ans;
     }
