@@ -1,50 +1,51 @@
-struct TrieNode{
-    bool isKey;
-    TrieNode* next[26];
-    TrieNode():isKey(false){
-        memset(next, NULL, sizeof(next));
-    }
-};
+int trie[150'000][26] = {0};
+bool is_word[150'000] = {0};
+int sz = 1;
 
 class WordDictionary {
 public:
     WordDictionary() {
-        root = new TrieNode();
+        sz = 1;
+        memset(trie, 0, sizeof trie);
+        memset(is_word, 0, sizeof is_word);
     }
     
-    void addWord(string word) {
-        TrieNode* node = root;
-        for(auto c: word){
-            if(!node->next[c - 'a']) node->next[c - 'a'] = new TrieNode();
-            node = node->next[c - 'a'];
+    void addWord(string_view word) {
+        int idx = 0;
+        for(char c: word) {
+            if(trie[idx][c - 'a'] == 0) {
+                trie[idx][c - 'a'] = sz++;
+            }
+            idx = trie[idx][c - 'a'];
         }
-        node->isKey = true;
+        is_word[idx] = true;
     }
     
-    bool search(string word) {
-        return helper(word, root);
+    bool search(string_view word) {
+        return searx(word, 0);
     }
-
 private:
-    TrieNode* root;
-    
-    bool helper(string word, TrieNode* node){
-        for(int i = 0; i < word.size(); i++){
-            char c = word[i];
-            if(c != '.'){
-                if(!node->next[c - 'a']) return false;
-                node = node->next[c - 'a'];
-            }
-            else{
-                bool found = false;
-                int j = 0;
-                for(; j < 26; j++){
-                    if(node->next[j]) found |= helper(word.substr(i + 1), node->next[j]);
-                    if(found) return true;
+    bool searx(string_view word, int idx) {
+        int n = word.size();
+        for(int i = 0; i < n; ++i) {
+            if(word[i] == '.') {
+                for(int j = 0; j < 26; ++j) {
+                    if(trie[idx][j] && searx(word.substr(i + 1), trie[idx][j])) {
+                        return true;
+                    }
                 }
-                if(j == 26) return false;
+                return false;
             }
+            if(trie[idx][word[i] - 'a'] == 0) return false;
+            idx = trie[idx][word[i] - 'a'];
         }
-        return node->isKey;
+        return is_word[idx];
     }
 };
+
+/**
+ * Your WordDictionary object will be instantiated and called as such:
+ * WordDictionary* obj = new WordDictionary();
+ * obj->addWord(word);
+ * bool param_2 = obj->search(word);
+ */
