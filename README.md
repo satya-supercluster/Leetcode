@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satya-supercluster/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3460-count-the-number-of-inversions](https://github.com/satya-supercluster/Leetcode/tree/master/3460-count-the-number-of-inversions) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/0014-longest-common-prefix) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
 | ------- |
@@ -492,4 +495,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
