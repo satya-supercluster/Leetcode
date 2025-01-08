@@ -153,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
+| [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Recursion
 |  |
@@ -376,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/satya-supercluster/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
@@ -489,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
 ## String Matching
