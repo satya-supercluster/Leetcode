@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satya-supercluster/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 ## Matrix
 |  |
@@ -505,6 +507,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Rolling Hash
