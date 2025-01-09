@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/satya-supercluster/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/satya-supercluster/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2358-number-of-ways-to-split-array](https://github.com/satya-supercluster/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
@@ -515,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [1512-design-underground-system](https://github.com/satya-supercluster/Leetcode/tree/master/1512-design-underground-system) |
+| [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 ## String Matching
 |  |
 | ------- |
