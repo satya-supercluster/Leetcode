@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/satya-supercluster/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satya-supercluster/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -540,4 +543,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/satya-supercluster/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Game Theory
+|  |
+| ------- |
+| [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 <!---LeetCode Topics End-->
