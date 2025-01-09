@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
+| [1512-design-underground-system](https://github.com/satya-supercluster/Leetcode/tree/master/1512-design-underground-system) |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -398,6 +399,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1512-design-underground-system](https://github.com/satya-supercluster/Leetcode/tree/master/1512-design-underground-system) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -512,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1512-design-underground-system](https://github.com/satya-supercluster/Leetcode/tree/master/1512-design-underground-system) |
 ## String Matching
 |  |
 | ------- |
