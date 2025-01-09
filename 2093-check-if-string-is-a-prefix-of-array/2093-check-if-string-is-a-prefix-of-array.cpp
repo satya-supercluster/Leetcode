@@ -1,12 +1,11 @@
 class Solution {
 public:
     bool isPrefixString(string s, vector<string>& words) {
-        int n=words.size();
-        vector<string> pre(n,words[0]);
-        for(int i{1};i<n;i++){
-            pre[i]=pre[i-1]+words[i];
+        string s2;
+        for(auto&i:words) {
+            s2+=i;
+            if(s2==s) return true;
         }
-        for(auto&i:pre) if(i==s) return true;
         return false;
     }
 };
