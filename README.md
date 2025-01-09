@@ -169,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1644-maximum-number-of-non-overlapping-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1644-maximum-number-of-non-overlapping-substrings) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satya-supercluster/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/satya-supercluster/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
@@ -262,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satya-supercluster/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/satya-supercluster/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
