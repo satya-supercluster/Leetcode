@@ -4,10 +4,11 @@ public:
         int n=words1.size(),m=words2.size();
         vector<int> v(26,0);
         for(auto&i:words2){
-            map<char,int>mp;
+            // map<char,int>mp;
+            vector<int> v1(26,0);
             for(auto&j:i) {
-                mp[j]++;
-                v[j-'a']=max(v[j-'a'],mp[j]);
+                v1[j-'a']++;
+                v[j-'a']=max(v[j-'a'],v1[j-'a']);
             }
         }
         vector<string> ans;
