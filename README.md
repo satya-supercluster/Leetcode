@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3477-minimum-operations-to-make-binary-array-elements-equal-to-one-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Search
 |  |
 | ------- |
@@ -372,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -434,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/satya-supercluster/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Simulation
 |  |
 | ------- |
@@ -512,6 +515,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -562,4 +566,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
