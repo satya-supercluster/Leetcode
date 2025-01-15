@@ -25,6 +25,7 @@ public:
                         ans|=(1ll<<i);
                         c--;
                     }
+                    else break;
                 }
             }
             return ans;
