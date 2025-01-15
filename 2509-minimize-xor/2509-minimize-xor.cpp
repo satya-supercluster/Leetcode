@@ -17,7 +17,7 @@ public:
             return ans;
         }
         else{
-            int ans{};
+            int ans{num1};
             c-=c1;
             for(int i{};i<32;i++){
                 if((num1&(1ll<<i))==0){
@@ -26,7 +26,6 @@ public:
                         c--;
                     }
                 }
-                else ans|=(1ll<<i);
             }
             return ans;
         }
