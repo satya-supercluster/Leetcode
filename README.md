@@ -295,6 +295,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2465-shifting-letters-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/satya-supercluster/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/satya-supercluster/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satya-supercluster/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -365,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/satya-supercluster/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2509-minimize-xor](https://github.com/satya-supercluster/Leetcode/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/satya-supercluster/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/satya-supercluster/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/satya-supercluster/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -584,6 +586,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/satya-supercluster/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/satya-supercluster/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 ## Game Theory
 |  |
 | ------- |
