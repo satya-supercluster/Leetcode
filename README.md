@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/satya-supercluster/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/satya-supercluster/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/satya-supercluster/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/satya-supercluster/Leetcode/tree/master/1576-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [2201-valid-arrangement-of-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/satya-supercluster/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/satya-supercluster/Leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
@@ -233,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
+| [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/satya-supercluster/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
 ## Greedy
