@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2439-longest-cycle-in-a-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2439-longest-cycle-in-a-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/satya-supercluster/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -137,12 +138,14 @@ Collection of LeetCode questions to ace the coding interview!
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/satya-supercluster/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satya-supercluster/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Graph
 |  |
@@ -329,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/satya-supercluster/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/satya-supercluster/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -384,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2685-first-completely-painted-row-or-column](https://github.com/satya-supercluster/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Stack
 |  |
 | ------- |
