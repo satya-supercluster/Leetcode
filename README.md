@@ -306,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/satya-supercluster/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satya-supercluster/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0952-word-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0952-word-subsets) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
+| [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -523,6 +525,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satya-supercluster/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
@@ -681,4 +684,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+## Geometry
+|  |
+| ------- |
+| [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 <!---LeetCode Topics End-->
