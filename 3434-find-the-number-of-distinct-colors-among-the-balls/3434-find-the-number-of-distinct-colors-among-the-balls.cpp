@@ -1,24 +1,23 @@
 class Solution {
 public:
-    vector<int> queryResults(int limit, vector<vector<int>>& queries) {
-        map<int,int>col,ind;
-        vector<int> re;
-        for(auto t:queries){
-            int in=t[0],c=t[1];
-            if(ind[in]!=0){
-                col[ind[in]]--;
-                if(col[ind[in]]==0){
-                    col.erase(ind[in]);
-                }
-                col[c]++;
-                ind[in]=c;
+    vector<int> queryResults(int l, vector<vector<int>>& q) {
+        map<int,int> mp,cmp;
+        vector<int> ans;
+        for(auto&v:q){
+            int pos=v[0];
+            int col=v[1];
+            if(mp.count(pos)){
+                cmp[mp[pos]]--;
+                if(cmp[mp[pos]]==0) cmp.erase(mp[pos]);
+                cmp[col]++;
+                mp[pos]=col;
             }
             else{
-                ind[in]=c;
-                col[c]++;
+                mp[pos]=col;
+                cmp[col]++;
             }
-            re.push_back(col.size());
+            ans.push_back(cmp.size());
         }
-        return re;
+        return ans;
     }
 };
