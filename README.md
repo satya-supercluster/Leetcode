@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0402-remove-k-digits](https://github.com/satya-supercluster/Leetcode/tree/master/0402-remove-k-digits) |
+| [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
+| [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -552,6 +554,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satya-supercluster/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
