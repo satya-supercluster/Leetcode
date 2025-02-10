@@ -9,10 +9,6 @@ public:
         }
         n=digits.size();
         reverse(digits.begin(), digits.end());
-        for(int i=0;i<n;i++){
-            cout<<digits[i]<<" ";
-        }
-        cout<<endl;
         int idx=-1;
         for(int i=n-2;i>=0;i--){
             if (digits[i]<digits[i+1]){
