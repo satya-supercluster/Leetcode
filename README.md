@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0010-regular-expression-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
@@ -269,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/satya-supercluster/Leetcode/tree/master/0402-remove-k-digits) |
 | [0561-array-partition](https://github.com/satya-supercluster/Leetcode/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/satya-supercluster/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -296,6 +298,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
