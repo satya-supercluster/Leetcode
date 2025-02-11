@@ -296,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -408,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
+| [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/satya-supercluster/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -615,6 +617,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0561-array-partition](https://github.com/satya-supercluster/Leetcode/tree/master/0561-array-partition) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
