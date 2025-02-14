@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1422-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1422-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -498,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satya-supercluster/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+| [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/satya-supercluster/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2465-shifting-letters-ii) |
@@ -572,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/satya-supercluster/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/satya-supercluster/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2448-count-number-of-bad-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -707,6 +710,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1512-design-underground-system](https://github.com/satya-supercluster/Leetcode/tree/master/1512-design-underground-system) |
 | [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2434-design-a-number-container-system](https://github.com/satya-supercluster/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -746,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
