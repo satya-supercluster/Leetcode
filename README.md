@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0338-counting-bits) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0260-single-number-iii) |
+| [0338-counting-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0338-counting-bits) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/satya-supercluster/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
