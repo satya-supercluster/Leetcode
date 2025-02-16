@@ -4,18 +4,10 @@ public:
         int x{};
         for(auto&i:nums)x^=i;
         int ind{-1};
-        int temp=x;
-        while(temp!=0){
-            ind++;
-            if(temp&1){
-                break;
-            }
-            temp/=2;
-        }
-        // if(ind==-1) return {x,0};
+        ind=x&(-(unsigned)x);
         vector<int> f,s;
         for(auto&i:nums){
-            if((i>>ind)&1)f.push_back(i);
+            if((i&ind))f.push_back(i);
             else s.push_back(i);
         }
         int x1=x;
