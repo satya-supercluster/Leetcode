@@ -7,7 +7,7 @@ public:
         ind=x&(-(unsigned)x);
         vector<int> f,s;
         for(auto&i:nums){
-            if((i&ind))f.push_back(i);
+            if(i&ind)f.push_back(i);
             else s.push_back(i);
         }
         int x1=x;
