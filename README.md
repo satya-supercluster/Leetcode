@@ -222,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/satya-supercluster/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/satya-supercluster/Leetcode/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2465-shifting-letters-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
@@ -292,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satya-supercluster/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/satya-supercluster/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/satya-supercluster/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
@@ -468,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satya-supercluster/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satya-supercluster/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2227-sum-of-subarray-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satya-supercluster/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3447-clear-digits](https://github.com/satya-supercluster/Leetcode/tree/master/3447-clear-digits) |
@@ -730,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
 |  |
