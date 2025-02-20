@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/satya-supercluster/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/satya-supercluster/Leetcode/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/satya-supercluster/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
+| [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2227-sum-of-subarray-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -577,6 +579,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/satya-supercluster/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1933-number-of-different-integers-in-a-string](https://github.com/satya-supercluster/Leetcode/tree/master/1933-number-of-different-integers-in-a-string) |
+| [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2285-design-bitset](https://github.com/satya-supercluster/Leetcode/tree/master/2285-design-bitset) |
 | [2300-construct-string-with-repeat-limit](https://github.com/satya-supercluster/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satya-supercluster/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
