@@ -476,6 +476,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/satya-supercluster/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/satya-supercluster/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/satya-supercluster/Leetcode/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/satya-supercluster/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -766,6 +767,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/satya-supercluster/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0303-range-sum-query-immutable](https://github.com/satya-supercluster/Leetcode/tree/master/0303-range-sum-query-immutable) |
