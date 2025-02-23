@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/satya-supercluster/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
+| [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/satya-supercluster/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/satya-supercluster/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
