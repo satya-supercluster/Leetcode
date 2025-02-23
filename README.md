@@ -334,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0890-lemonade-change](https://github.com/satya-supercluster/Leetcode/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satya-supercluster/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/satya-supercluster/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0952-word-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
@@ -573,6 +574,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/satya-supercluster/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/satya-supercluster/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/satya-supercluster/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/satya-supercluster/Leetcode/tree/master/1364-tuple-with-same-product) |
@@ -637,6 +639,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -658,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0226-invert-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1021-distribute-coins-in-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -805,6 +809,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
 |  |
 | ------- |
