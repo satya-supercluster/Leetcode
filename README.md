@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0332-reconstruct-itinerary](https://github.com/satya-supercluster/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/satya-supercluster/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
@@ -154,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/satya-supercluster/Leetcode/tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
@@ -338,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0561-array-partition](https://github.com/satya-supercluster/Leetcode/tree/master/0561-array-partition) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/satya-supercluster/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/satya-supercluster/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
@@ -462,6 +466,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
