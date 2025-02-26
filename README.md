@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satya-supercluster/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -385,6 +386,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/satya-supercluster/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/satya-supercluster/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1876-map-of-highest-peak](https://github.com/satya-supercluster/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/satya-supercluster/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
