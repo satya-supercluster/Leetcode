@@ -214,6 +214,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/satya-supercluster/Leetcode/tree/master/1160-letter-tile-possibilities) |
+| [1170-shortest-common-supersequence](https://github.com/satya-supercluster/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/satya-supercluster/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/satya-supercluster/Leetcode/tree/master/1063-best-sightseeing-pair) |
+| [1170-shortest-common-supersequence](https://github.com/satya-supercluster/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
