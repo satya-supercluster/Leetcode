@@ -662,6 +662,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2448-count-number-of-bad-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2649-count-total-number-of-colored-cells](https://github.com/satya-supercluster/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
