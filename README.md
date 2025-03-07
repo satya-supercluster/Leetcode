@@ -665,6 +665,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2448-count-number-of-bad-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2610-closest-prime-numbers-in-range](https://github.com/satya-supercluster/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/satya-supercluster/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -851,6 +852,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Number Theory
 |  |
 | ------- |
+| [2610-closest-prime-numbers-in-range](https://github.com/satya-supercluster/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Shortest Path
 |  |
