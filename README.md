@@ -380,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1524-string-matching-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/1524-string-matching-in-an-array) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satya-supercluster/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
@@ -563,6 +564,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/satya-supercluster/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1138-grumpy-bookstore-owner](https://github.com/satya-supercluster/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satya-supercluster/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/satya-supercluster/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/satya-supercluster/Leetcode/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -579,6 +581,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1046-max-consecutive-ones-iii](https://github.com/satya-supercluster/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/satya-supercluster/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2358-number-of-ways-to-split-array](https://github.com/satya-supercluster/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
