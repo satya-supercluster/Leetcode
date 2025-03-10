@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
 | [0922-possible-bipartition](https://github.com/satya-supercluster/Leetcode/tree/master/0922-possible-bipartition) |
+| [0945-snakes-and-ladders](https://github.com/satya-supercluster/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1229-shortest-path-with-alternating-colors](https://github.com/satya-supercluster/Leetcode/tree/master/1229-shortest-path-with-alternating-colors) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0941-sort-array-by-parity](https://github.com/satya-supercluster/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [0945-snakes-and-ladders](https://github.com/satya-supercluster/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [0952-word-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/satya-supercluster/Leetcode/tree/master/0695-max-area-of-island) |
 | [0854-making-a-large-island](https://github.com/satya-supercluster/Leetcode/tree/master/0854-making-a-large-island) |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
+| [0945-snakes-and-ladders](https://github.com/satya-supercluster/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1224-minimum-falling-path-sum-ii) |
 | [1396-count-servers-that-communicate](https://github.com/satya-supercluster/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
