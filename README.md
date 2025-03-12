@@ -432,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2691-count-vowel-strings-in-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satya-supercluster/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2698-find-the-array-concatenation-value](https://github.com/satya-supercluster/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/satya-supercluster/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
@@ -496,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/satya-supercluster/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/2551-apply-operations-to-an-array) |
+| [2698-find-the-array-concatenation-value](https://github.com/satya-supercluster/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2701-subsequence-with-the-minimum-score](https://github.com/satya-supercluster/Leetcode/tree/master/2701-subsequence-with-the-minimum-score) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/satya-supercluster/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Matrix
@@ -712,6 +714,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2551-apply-operations-to-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satya-supercluster/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2698-find-the-array-concatenation-value](https://github.com/satya-supercluster/Leetcode/tree/master/2698-find-the-array-concatenation-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/satya-supercluster/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
