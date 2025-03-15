@@ -488,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0010-regular-expression-matching) |
+| [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/satya-supercluster/Leetcode/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -922,4 +923,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2187-vowels-of-all-substrings) |
+## Linked List
+|  |
+| ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 <!---LeetCode Topics End-->
