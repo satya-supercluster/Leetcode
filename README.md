@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/satya-supercluster/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/satya-supercluster/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -154,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/satya-supercluster/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/satya-supercluster/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
@@ -167,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/satya-supercluster/Leetcode/tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/satya-supercluster/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/satya-supercluster/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satya-supercluster/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/satya-supercluster/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Graph
@@ -193,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2564-most-profitable-path-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/satya-supercluster/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2717-collect-coins-in-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/2717-collect-coins-in-a-tree) |
+| [2793-count-the-number-of-complete-components](https://github.com/satya-supercluster/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/satya-supercluster/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/satya-supercluster/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## String
