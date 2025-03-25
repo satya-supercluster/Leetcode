@@ -1,26 +1,37 @@
 class Solution {
-    vector<string> ans;
 public:
-    bool check(string&s){
-        int c{};
-        for(int i{};i<s.size();i++){
-            if(s[i]=='(') c++;
-            else if(c<=0) return false;
-            else c--;
+    void para(int n,int left,int right,vector<string>&ans,string &temp)
+    {
+        if(left+right==2*n)
+        {
+            ans.push_back(temp);
+            return;
         }
-        if(c==0) return true;
-        return false;
+        
+        if(left<n)
+        {
+        temp.push_back('(');
+        para(n,left+1,right,ans,temp);
+        temp.pop_back();
+        }
+        if(right<left)
+        {
+            temp.push_back(')');
+            para(n,left,right+1,ans,temp);
+            temp.pop_back();
+        }
     }
+
+
+
     vector<string> generateParenthesis(int n) {
-        for(int mask{};mask<=(1<<(2*n));mask++){
-            string s;
-            for(int i{};i<2*n;i++){
-                if((mask>>i)&1) s.push_back('(');
-                else s.push_back(')');
-            }
-            // cout<<s<<endl;
-            if(check(s)) ans.push_back(s);
-        }
+        vector<string>ans;
+        string temp;
+
+        para(n,0,0,ans,temp);
+
         return ans;
+
+        
     }
 };
