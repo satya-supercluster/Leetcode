@@ -280,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/satya-supercluster/Leetcode/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/satya-supercluster/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
@@ -761,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -784,6 +786,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -876,6 +879,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satya-supercluster/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satya-supercluster/Leetcode/tree/master/0022-generate-parentheses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
@@ -960,4 +964,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
