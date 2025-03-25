@@ -479,6 +479,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3483-alternating-groups-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/satya-supercluster/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/satya-supercluster/Leetcode/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Binary Search
@@ -816,6 +817,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/satya-supercluster/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3430-count-days-without-meetings](https://github.com/satya-supercluster/Leetcode/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/satya-supercluster/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Counting Sort
 |  |
 | ------- |
