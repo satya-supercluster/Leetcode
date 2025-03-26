@@ -363,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/satya-supercluster/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0119-pascals-triangle-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/satya-supercluster/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -776,6 +777,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -801,6 +803,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
@@ -964,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -984,4 +988,5 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
