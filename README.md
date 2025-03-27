@@ -478,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satya-supercluster/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/satya-supercluster/Leetcode/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/satya-supercluster/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/satya-supercluster/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/satya-supercluster/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
