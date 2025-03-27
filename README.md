@@ -713,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/satya-supercluster/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satya-supercluster/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/satya-supercluster/Leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/satya-supercluster/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -937,6 +938,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/satya-supercluster/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/satya-supercluster/Leetcode/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -1009,6 +1011,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satya-supercluster/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0146-lru-cache](https://github.com/satya-supercluster/Leetcode/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -1025,4 +1028,8 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/satya-supercluster/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
