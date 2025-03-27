@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0210-course-schedule-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/satya-supercluster/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/satya-supercluster/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0112-path-sum) |
+| [0210-course-schedule-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0332-reconstruct-itinerary](https://github.com/satya-supercluster/Leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0684-redundant-connection](https://github.com/satya-supercluster/Leetcode/tree/master/0684-redundant-connection) |
@@ -312,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Topological Sort
 |  |
 | ------- |
+| [0210-course-schedule-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0310-minimum-height-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0310-minimum-height-trees) |
 | [0820-find-eventual-safe-states](https://github.com/satya-supercluster/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/satya-supercluster/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
