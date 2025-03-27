@@ -537,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satya-supercluster/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/satya-supercluster/Leetcode/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -706,6 +707,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/satya-supercluster/Leetcode/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satya-supercluster/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0496-next-greater-element-i](https://github.com/satya-supercluster/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0659-split-array-into-consecutive-subsequences](https://github.com/satya-supercluster/Leetcode/tree/master/0659-split-array-into-consecutive-subsequences) |
@@ -1001,6 +1003,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satya-supercluster/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0908-middle-of-the-linked-list) |
