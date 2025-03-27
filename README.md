@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satya-supercluster/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/satya-supercluster/Leetcode/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -833,6 +834,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0561-array-partition](https://github.com/satya-supercluster/Leetcode/tree/master/0561-array-partition) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
@@ -981,6 +983,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -997,6 +1000,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satya-supercluster/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0908-middle-of-the-linked-list) |
@@ -1007,4 +1011,8 @@ Collection of LeetCode questions to ace the coding interview!
 | [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/satya-supercluster/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
