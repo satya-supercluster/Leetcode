@@ -385,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0485-max-consecutive-ones](https://github.com/satya-supercluster/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/satya-supercluster/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -513,6 +514,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/satya-supercluster/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/satya-supercluster/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/satya-supercluster/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -706,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/satya-supercluster/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2434-design-a-number-container-system](https://github.com/satya-supercluster/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -920,11 +923,13 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satya-supercluster/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/satya-supercluster/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Backtracking
 |  |
@@ -1007,6 +1012,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Quickselect
 |  |
@@ -1038,6 +1044,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
