@@ -375,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0120-triangle](https://github.com/satya-supercluster/Leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/satya-supercluster/Leetcode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/satya-supercluster/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/satya-supercluster/Leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/satya-supercluster/Leetcode/tree/master/0239-sliding-window-maximum) |
@@ -546,6 +547,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/satya-supercluster/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/satya-supercluster/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/satya-supercluster/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/satya-supercluster/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/satya-supercluster/Leetcode/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
@@ -762,6 +764,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/satya-supercluster/Leetcode/tree/master/0012-integer-to-roman) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/satya-supercluster/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satya-supercluster/Leetcode/tree/master/0231-power-of-two) |
 | [0556-next-greater-element-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0556-next-greater-element-iii) |
 | [0919-projection-area-of-3d-shapes](https://github.com/satya-supercluster/Leetcode/tree/master/0919-projection-area-of-3d-shapes) |
