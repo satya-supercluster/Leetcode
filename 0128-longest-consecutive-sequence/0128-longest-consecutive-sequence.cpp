@@ -1,17 +1,28 @@
 class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
-        ios_base::sync_with_stdio(false);
-        cin.tie(nullptr);
-        if(nums.size() < 2) return nums.size();
-        std::unordered_set<int> ints(nums.begin(), nums.end());
-        int currentMaxSequence = 0;
-        for(auto num : ints){
-            if(ints.find(num-1) != ints.end()) continue;
-            int seq = 1;
-            while(ints.find(++num) != ints.end()) seq++;
-            currentMaxSequence = std::max(currentMaxSequence, seq);
+        unordered_map<int, pair<int, int>> mp;
+        unordered_map<int, bool> bl;
+        int mx = 0;
+        
+        for (int i : nums) {
+            if (bl[i]) {
+                continue;
+            }
+            bl[i] = true;
+            int l = i, r = i;
+            
+            if (mp.find(i + 1) != mp.end()) {
+                r = mp[i + 1].first;
+            }
+            if (mp.find(i - 1) != mp.end()) {
+                l = mp[i - 1].second;
+            }
+            mp[r] = make_pair(r, l);
+            mp[l] = make_pair(r, l);
+            mx = max(mx, r - l + 1);
         }
-        return currentMaxSequence;
+        
+        return mx;
     }
 };
