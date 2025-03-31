@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/satya-supercluster/Leetcode/tree/master/2509-minimize-xor) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2681-put-marbles-in-bags](https://github.com/satya-supercluster/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satya-supercluster/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/satya-supercluster/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
@@ -476,6 +477,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/satya-supercluster/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/satya-supercluster/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/satya-supercluster/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2685-first-completely-painted-row-or-column](https://github.com/satya-supercluster/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/satya-supercluster/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/satya-supercluster/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -707,6 +709,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2434-design-a-number-container-system](https://github.com/satya-supercluster/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/satya-supercluster/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/satya-supercluster/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2681-put-marbles-in-bags](https://github.com/satya-supercluster/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/satya-supercluster/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/2868-continuous-subarrays) |
@@ -881,6 +884,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/satya-supercluster/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
+| [2681-put-marbles-in-bags](https://github.com/satya-supercluster/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/satya-supercluster/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/satya-supercluster/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/satya-supercluster/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
