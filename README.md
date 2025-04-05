@@ -452,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/satya-supercluster/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/satya-supercluster/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/satya-supercluster/Leetcode/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/satya-supercluster/Leetcode/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -640,6 +641,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/satya-supercluster/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/satya-supercluster/Leetcode/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/satya-supercluster/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -797,6 +799,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1477-product-of-the-last-k-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/satya-supercluster/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/satya-supercluster/Leetcode/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/satya-supercluster/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2187-vowels-of-all-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2187-vowels-of-all-substrings) |
@@ -941,6 +944,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/satya-supercluster/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
@@ -974,6 +978,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/satya-supercluster/Leetcode/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/satya-supercluster/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/satya-supercluster/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/satya-supercluster/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -1050,6 +1055,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2187-vowels-of-all-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2187-vowels-of-all-substrings) |
 ## Linked List
 |  |
