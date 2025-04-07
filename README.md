@@ -300,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0300-longest-increasing-subsequence](https://github.com/satya-supercluster/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/satya-supercluster/Leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/satya-supercluster/Leetcode/tree/master/0368-largest-divisible-subset) |
+| [0416-partition-equal-subset-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0307-range-sum-query-mutable](https://github.com/satya-supercluster/Leetcode/tree/master/0307-range-sum-query-mutable) |
 | [0368-largest-divisible-subset](https://github.com/satya-supercluster/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0407-trapping-rain-water-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/satya-supercluster/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
