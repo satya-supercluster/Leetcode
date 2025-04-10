@@ -275,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2727-number-of-senior-citizens](https://github.com/satya-supercluster/Leetcode/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/satya-supercluster/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/satya-supercluster/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/satya-supercluster/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/satya-supercluster/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/satya-supercluster/Leetcode/tree/master/3447-clear-digits) |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2262-solving-questions-with-brainpower](https://github.com/satya-supercluster/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
 | [2554-minimum-total-distance-traveled](https://github.com/satya-supercluster/Leetcode/tree/master/2554-minimum-total-distance-traveled) |
 | [3191-maximum-score-after-applying-operations-on-a-tree](https://github.com/satya-supercluster/Leetcode/tree/master/3191-maximum-score-after-applying-operations-on-a-tree) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/satya-supercluster/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/satya-supercluster/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3442-maximum-total-reward-using-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3442-maximum-total-reward-using-operations-i) |
 | [3460-count-the-number-of-inversions](https://github.com/satya-supercluster/Leetcode/tree/master/3460-count-the-number-of-inversions) |
@@ -825,6 +827,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [3001-apply-operations-to-maximize-score](https://github.com/satya-supercluster/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/satya-supercluster/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/satya-supercluster/Leetcode/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/satya-supercluster/Leetcode/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/satya-supercluster/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
