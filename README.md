@@ -824,6 +824,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2649-count-total-number-of-colored-cells](https://github.com/satya-supercluster/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2650-split-with-minimum-sum](https://github.com/satya-supercluster/Leetcode/tree/master/2650-split-with-minimum-sum) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/satya-supercluster/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [2998-count-symmetric-integers](https://github.com/satya-supercluster/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/satya-supercluster/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/satya-supercluster/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -966,6 +967,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/satya-supercluster/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2531-create-components-with-same-value](https://github.com/satya-supercluster/Leetcode/tree/master/2531-create-components-with-same-value) |
+| [2998-count-symmetric-integers](https://github.com/satya-supercluster/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3046-minimum-operations-to-make-a-special-number](https://github.com/satya-supercluster/Leetcode/tree/master/3046-minimum-operations-to-make-a-special-number) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/satya-supercluster/Leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/satya-supercluster/Leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
