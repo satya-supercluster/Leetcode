@@ -447,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list](https://github.com/satya-supercluster/Leetcode/tree/master/1562-people-whose-list-of-favorite-companies-is-not-a-subset-of-another-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/satya-supercluster/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1656-count-good-triplets](https://github.com/satya-supercluster/Leetcode/tree/master/1656-count-good-triplets) |
 | [1677-matrix-diagonal-sum](https://github.com/satya-supercluster/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1696-strange-printer-ii](https://github.com/satya-supercluster/Leetcode/tree/master/1696-strange-printer-ii) |
 | [1720-crawler-log-folder](https://github.com/satya-supercluster/Leetcode/tree/master/1720-crawler-log-folder) |
@@ -967,6 +968,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/satya-supercluster/Leetcode/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/satya-supercluster/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/satya-supercluster/Leetcode/tree/master/2337-remove-digit-from-number-to-maximize-result) |
