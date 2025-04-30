@@ -583,6 +583,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0010-regular-expression-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/satya-supercluster/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/satya-supercluster/Leetcode/tree/master/0044-wildcard-matching) |
+| [0060-permutation-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/satya-supercluster/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/satya-supercluster/Leetcode/tree/master/2050-count-good-numbers) |
@@ -841,6 +842,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/satya-supercluster/Leetcode/tree/master/0012-integer-to-roman) |
+| [0060-permutation-sequence](https://github.com/satya-supercluster/Leetcode/tree/master/0060-permutation-sequence) |
 | [0096-unique-binary-search-trees](https://github.com/satya-supercluster/Leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/satya-supercluster/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/satya-supercluster/Leetcode/tree/master/0231-power-of-two) |
