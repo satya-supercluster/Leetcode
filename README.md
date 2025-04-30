@@ -382,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/satya-supercluster/Leetcode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/satya-supercluster/Leetcode/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/satya-supercluster/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/satya-supercluster/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -1037,6 +1038,7 @@ Collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/satya-supercluster/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/satya-supercluster/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/satya-supercluster/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0113-path-sum-ii) |
