@@ -232,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0726-number-of-atoms](https://github.com/satya-supercluster/Leetcode/tree/master/0726-number-of-atoms) |
 | [0768-partition-labels](https://github.com/satya-supercluster/Leetcode/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/satya-supercluster/Leetcode/tree/master/0868-push-dominoes) |
 | [0952-word-subsets](https://github.com/satya-supercluster/Leetcode/tree/master/0952-word-subsets) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/satya-supercluster/Leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/satya-supercluster/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -306,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0494-target-sum](https://github.com/satya-supercluster/Leetcode/tree/master/0494-target-sum) |
 | [0639-decode-ways-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0639-decode-ways-ii) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/satya-supercluster/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0868-push-dominoes](https://github.com/satya-supercluster/Leetcode/tree/master/0868-push-dominoes) |
 | [1025-minimum-cost-for-tickets](https://github.com/satya-supercluster/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/satya-supercluster/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1170-shortest-common-supersequence](https://github.com/satya-supercluster/Leetcode/tree/master/1170-shortest-common-supersequence) |
@@ -605,6 +607,7 @@ Collection of LeetCode questions to ace the coding interview!
 | [0557-reverse-words-in-a-string-iii](https://github.com/satya-supercluster/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0768-partition-labels](https://github.com/satya-supercluster/Leetcode/tree/master/0768-partition-labels) |
 | [0861-flipping-an-image](https://github.com/satya-supercluster/Leetcode/tree/master/0861-flipping-an-image) |
+| [0868-push-dominoes](https://github.com/satya-supercluster/Leetcode/tree/master/0868-push-dominoes) |
 | [0908-middle-of-the-linked-list](https://github.com/satya-supercluster/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/satya-supercluster/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/satya-supercluster/Leetcode/tree/master/0958-sort-array-by-parity-ii) |
